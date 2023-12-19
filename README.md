@@ -71,14 +71,6 @@ HTML
 </script>
 ```
 
-**4. Remember:**
-
-  - Use custom code responsibly to avoid breaking your website or affecting performance.
-  - Test your implementations thoroughly on different devices and browsers.
-  - Consider using libraries and frameworks for efficient code reuse.
-
-**Bonus Tip:** Explore Webflow University's resources on custom code injection to learn more about advanced techniques and best practices.
-
 
 # Need Help?
 Need a High Converting [SaaS Landing Page](https://epyc.in/)?
